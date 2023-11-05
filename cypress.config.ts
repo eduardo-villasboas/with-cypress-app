@@ -9,6 +9,5 @@ export default defineConfig({
       framework: 'next',
       bundler: 'webpack',
     },
-  },
-  defaultCommandTimeout: 10000
+  }
 })
